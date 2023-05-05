@@ -3,6 +3,5 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("1st1");
         System.out.println();
-        System.out.println("Hello Ingress");
     }
 }
